@@ -64,7 +64,7 @@ export const Header = () => {
   const path = usePathname()
   const { emptyCart } = useCart()
   useEffect(() => {
-    fetch('https://tastyfooddel.vercel.app/api/logged', {
+    fetch('https://tastyfooddel.netlify.app/api/logged', {
       method: 'GET',
       cache: 'no-cache'
     })
