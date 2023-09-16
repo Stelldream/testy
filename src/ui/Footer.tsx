@@ -97,7 +97,7 @@ export const Footer = ({ isEng = false }: { isEng?: boolean }) => {
                 <li>Вул. Князів Острозьких, 8</li>
               </>
             )}
-            <li>068 - 388 - 3898</li>
+            <li>093 - 653 - 5263</li>
             <li>tastyfood@gmail.com</li>
           </ul>
         </div>
