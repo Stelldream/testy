@@ -21,7 +21,7 @@ export const Contact = ({ isEng = false }: { isEng?: boolean }) => {
 
         <div className='contact__button'>
           <Link
-            href='https://t.me/botfather'
+            href='https://wa.me/380936535263'
             className='button'
             target='_blank'>
             {isEng ? 'Contact us now' : 'Зв`язатися зараз'}
